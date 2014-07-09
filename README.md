@@ -1,3 +1,0 @@
-compartido
-==========
-cambio "mi cambio"
